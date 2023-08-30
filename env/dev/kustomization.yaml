@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/gurraj223/demo-app
-  newTag: f74cae0f480f04d3aa9cc9497479d7d6e126cec5
+  newTag: 64900b8135931759593c50a961a6e0f20e5f224c
