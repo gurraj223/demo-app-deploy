@@ -1,1 +1,3 @@
 image: ghcr.io/gurraj223/demo-app:64900b8135931759593c50a961a6e0f20e5f224c
+
+env: stage
